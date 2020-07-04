@@ -1,0 +1,39 @@
+@import "./tailwind.scss";
+
+body {
+  color: #fff;
+}
+
+h1 {
+  letter-spacing: 0.025em;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h2 {
+  letter-spacing: 0.025em;
+  font-size: 2rem;
+  font-weight: bold;
+}
+h4 {
+  font-size: 1.5rem;
+}
+
+p {
+  letter-spacing: 0.025em;
+  line-height: 2rem;
+  font-size: 1.125rem;
+}
+
+main {
+  padding-bottom: 85px;
+}
+
+.box {
+  max-width: 700px;
+}
+
+.nav-box {
+  transform: translateX(50%);
+  right: 50%;
+}
