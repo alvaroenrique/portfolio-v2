@@ -3,10 +3,10 @@ import Layout from "../components/layout"
 
 interface Props {}
 
-export default function blog({}: Props): ReactElement {
+export default function Blog({}: Props): ReactElement {
   return (
     <Layout title="Blog" icon="blog">
-      <div></div>
+      <div>asdasd</div>
     </Layout>
   )
 }
